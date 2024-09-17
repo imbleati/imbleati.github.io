@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imbleati.github.io/sitemap.html.gz
+Sitemap: https://imbleati.github.io/app/sitemap.html.gz
+Sitemap: https://imbleati.github.io/assets/sitemap.html.gz
+Sitemap: https://imbleati.github.io/css/sitemap.html.gz
+Sitemap: https://imbleati.github.io/includes/sitemap.html.gz
+Sitemap: https://imbleati.github.io/item/sitemap.html.gz
+Sitemap: https://imbleati.github.io/src/sitemap.html.gz
